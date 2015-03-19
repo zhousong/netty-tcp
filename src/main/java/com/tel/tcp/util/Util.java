@@ -4,6 +4,10 @@ import io.netty.channel.Channel;
 
 import java.net.SocketAddress;
 
+/**
+ * util
+ *
+ */
 public class Util {
 
 	public static String parseChannelRemoteAddr(Channel channel) {
