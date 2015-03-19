@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="97" started-at="2015-03-12T08:41:29Z" finished-at="2015-03-12T08:41:29Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="97" started-at="2015-03-12T08:41:29Z" finished-at="2015-03-12T08:41:29Z">
+      <class name="com.tel.MainTest">
+        <test-method status="PASS" signature="testHello()[pri:0, instance:com.tel.MainTest@1e001c8]" name="testHello" duration-ms="73" started-at="2015-03-12T16:41:29Z" finished-at="2015-03-12T16:41:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testHello -->
+      </class> <!-- com.tel.MainTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
